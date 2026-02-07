@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 2a4c32f393c599e40bab5aee79cb6299
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 285687
+  packageName: Urban Traffic & Pedestrian System
+  packageVersion: 1.5.1
+  assetPath: Assets/Gley/UrbanAssets/Runtime/Graphics/Environment/Prefabs/TrafficLightPost/TrafficLightPost.prefab
+  uploadId: 854526

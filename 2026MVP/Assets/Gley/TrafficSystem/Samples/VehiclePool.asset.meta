@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 4af10e1813945394ca103ca811b3beb2
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 285687
+  packageName: Urban Traffic & Pedestrian System
+  packageVersion: 1.5.1
+  assetPath: Assets/Gley/TrafficSystem/Samples/VehiclePool.asset
+  uploadId: 854526

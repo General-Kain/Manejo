@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: c211655d73c36aa4f8e744dec5b3a9f8
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 285687
+  packageName: Urban Traffic & Pedestrian System
+  packageVersion: 1.5.1
+  assetPath: Assets/Gley/UrbanAssets/Runtime/Graphics/Environment/Prefabs/Roads/Curve90.prefab
+  uploadId: 854526

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 2ff04ea0b633bd742be7d37beaf877b0
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 285687
+  packageName: Urban Traffic & Pedestrian System
+  packageVersion: 1.5.1
+  assetPath: Assets/Gley/PedestrianSystem/Runtime/Graphics/Pedestrian/Animations/Run.anim
+  uploadId: 854526

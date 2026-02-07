@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 3b42b9d9cedf5fa49ad9f9357eb9220d
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 285687
+  packageName: Urban Traffic & Pedestrian System
+  packageVersion: 1.5.1
+  assetPath: Assets/Gley/UrbanAssets/Runtime/Graphics/Environment/Prefabs/Buildings/Building_C1.prefab
+  uploadId: 854526

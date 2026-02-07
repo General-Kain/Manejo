@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 2ed205217ec8b5947bfeabfa0cc262fb
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 285687
+  packageName: Urban Traffic & Pedestrian System
+  packageVersion: 1.5.1
+  assetPath: Assets/Gley/PedestrianSystem/Editor/SetupWindows/EditPathWindow.cs
+  uploadId: 854526

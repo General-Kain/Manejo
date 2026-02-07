@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 0efddf680dc669e419c0fde76dd89493
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 285687
+  packageName: Urban Traffic & Pedestrian System
+  packageVersion: 1.5.1
+  assetPath: Assets/Gley/UrbanAssets/Package.json
+  uploadId: 854526

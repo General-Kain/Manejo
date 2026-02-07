@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: a16e9900fe5351745b9aabdfcb8fcb48
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 285687
+  packageName: Urban Traffic & Pedestrian System
+  packageVersion: 1.5.1
+  assetPath: Assets/Gley/UrbanAssets/Runtime/Graphics/Environment/Prefabs/Roads/Roundabout.prefab
+  uploadId: 854526

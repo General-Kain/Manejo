@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 37216bc432d3e3f479dcdb7c0c319034
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 285687
+  packageName: Urban Traffic & Pedestrian System
+  packageVersion: 1.5.1
+  assetPath: Assets/Gley/UrbanAssets/Runtime/Graphics/Environment/Prefabs/Roads/Line4Crossing.prefab
+  uploadId: 854526

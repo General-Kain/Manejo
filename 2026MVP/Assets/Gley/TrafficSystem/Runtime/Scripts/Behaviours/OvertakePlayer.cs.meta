@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 89529aee687bd084186b7de11c08a5e8
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 285687
+  packageName: Urban Traffic & Pedestrian System
+  packageVersion: 1.5.1
+  assetPath: Assets/Gley/TrafficSystem/Runtime/Scripts/Behaviours/OvertakePlayer.cs
+  uploadId: 854526

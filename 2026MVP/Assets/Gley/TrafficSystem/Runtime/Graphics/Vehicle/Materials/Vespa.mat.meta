@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 7790242c4b69966448d6306c4caa0026
+timeCreated: 1454837069
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 285687
+  packageName: Urban Traffic & Pedestrian System
+  packageVersion: 1.5.1
+  assetPath: Assets/Gley/TrafficSystem/Runtime/Graphics/Vehicle/Materials/Vespa.mat
+  uploadId: 854526

@@ -1,0 +1,22 @@
+{
+    "name": "Gley.PedestrianSystem.Editor",
+    "rootNamespace": "Gley.PedestrianSystem.Editor",
+    "references": [
+        "Gley.UrbanSystem",
+        "Gley.UrbanSystem.Editor",
+        "Gley.PedestrianSystem",
+        "Gley.Common.Editor",
+        "Gley.PedestrianSystem.User"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

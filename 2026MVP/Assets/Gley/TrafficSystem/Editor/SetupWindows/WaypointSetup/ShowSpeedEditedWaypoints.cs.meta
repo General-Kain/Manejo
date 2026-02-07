@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 93f65f08ff7f26d43920cec587f3d671
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 285687
+  packageName: Urban Traffic & Pedestrian System
+  packageVersion: 1.5.1
+  assetPath: Assets/Gley/TrafficSystem/Editor/SetupWindows/WaypointSetup/ShowSpeedEditedWaypoints.cs
+  uploadId: 854526

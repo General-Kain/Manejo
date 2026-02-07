@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: f667842e977f21b499572c0300b68be6
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 285687
+  packageName: Urban Traffic & Pedestrian System
+  packageVersion: 1.5.1
+  assetPath: Assets/Gley/TrafficSystem/Editor/EditorDrawer/TrafficLaneData.cs
+  uploadId: 854526

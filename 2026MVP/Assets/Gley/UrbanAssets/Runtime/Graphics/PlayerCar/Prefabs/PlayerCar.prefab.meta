@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 56726f7c6e5254348b86fcf28347696d
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 285687
+  packageName: Urban Traffic & Pedestrian System
+  packageVersion: 1.5.1
+  assetPath: Assets/Gley/UrbanAssets/Runtime/Graphics/PlayerCar/Prefabs/PlayerCar.prefab
+  uploadId: 854526

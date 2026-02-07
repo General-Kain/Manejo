@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 33f4f0567b3bb7848a5cb2f01f019967
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 285687
+  packageName: Urban Traffic & Pedestrian System
+  packageVersion: 1.5.1
+  assetPath: Assets/Gley/TrafficSystem/Editor/SetupWindows/WaypointSetup/EditWaypointWindow.cs
+  uploadId: 854526

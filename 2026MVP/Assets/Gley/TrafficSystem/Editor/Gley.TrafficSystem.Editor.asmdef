@@ -1,0 +1,25 @@
+{
+    "name": "Gley.TrafficSystem.Editor",
+    "rootNamespace": "Gley.TrafficSystem.Editor",
+    "references": [
+        "Gley.TrafficSystem",
+        "Gley.UrbanSystem",
+        "Gley.UrbanSystem.Editor",
+        "Gley.Common.Editor",
+        "Gley.TrafficSystem.User",
+        "PG.RoadConstructor",
+        "Unity.Splines",
+        "Unity.Mathematics"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 079ba77c5281db84991463330b349228
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 285687
+  packageName: Urban Traffic & Pedestrian System
+  packageVersion: 1.5.1
+  assetPath: Assets/Gley/PedestrianSystem/Runtime/Graphics/Pedestrian/Materials/Atlas_1A_D.mat
+  uploadId: 854526

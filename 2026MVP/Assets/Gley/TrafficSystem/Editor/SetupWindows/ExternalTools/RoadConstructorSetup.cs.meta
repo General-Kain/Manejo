@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 25b3f1e76ac254a42ac27318e09f01bc
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 285687
+  packageName: Urban Traffic & Pedestrian System
+  packageVersion: 1.5.1
+  assetPath: Assets/Gley/TrafficSystem/Editor/SetupWindows/ExternalTools/RoadConstructorSetup.cs
+  uploadId: 854526

@@ -1,0 +1,21 @@
+{
+    "name": "com.gley.urbanexample",
+    "version": "1.5.1",
+    "displayName": "Urban Example",
+    "description": "An example scene of Traffic System and Pedestrian System working together.",
+    "unity": "2021.3",
+    "documentationUrl": "",
+    "changelogUrl": "",
+    "author": {
+        "name": "Gley Games",
+        "email": "gleygames@hotmail.com",
+        "url": "https://gleygames.com"
+    },
+    "samples": [
+        {
+            "displayName": "City Example",
+            "description": "A scene with both traffic and pedestrians already integrated",
+            "path": "Samples~"
+        }
+    ]
+}

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 77cfbbb08fbe7ce48815e58e93317a84
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 285687
+  packageName: Urban Traffic & Pedestrian System
+  packageVersion: 1.5.1
+  assetPath: Assets/Gley/TrafficSystem/Runtime/Graphics/Vehicle/Prefabs/CompleteVehicles/SmallSedanGreen2.prefab
+  uploadId: 854526

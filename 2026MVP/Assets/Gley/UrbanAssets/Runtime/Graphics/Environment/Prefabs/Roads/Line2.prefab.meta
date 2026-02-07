@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 349ee90a7f4074e4ebb4ea8edc54eb09
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 285687
+  packageName: Urban Traffic & Pedestrian System
+  packageVersion: 1.5.1
+  assetPath: Assets/Gley/UrbanAssets/Runtime/Graphics/Environment/Prefabs/Roads/Line2.prefab
+  uploadId: 854526

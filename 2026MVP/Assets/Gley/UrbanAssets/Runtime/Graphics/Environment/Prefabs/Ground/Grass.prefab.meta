@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: bf37affee52912c4aa0ba443e0dfd292
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 285687
+  packageName: Urban Traffic & Pedestrian System
+  packageVersion: 1.5.1
+  assetPath: Assets/Gley/UrbanAssets/Runtime/Graphics/Environment/Prefabs/Ground/Grass.prefab
+  uploadId: 854526
