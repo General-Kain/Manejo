@@ -134,22 +134,6 @@ PrefabInstance:
       propertyPath: m_Name
       value: Barbie
       objectReference: {fileID: 0}
-    - target: {fileID: 4663680594153757581, guid: 436a70b435c93d74e9d4b0f983c528ea, type: 3}
-      propertyPath: m_LocalScale.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4663680594153757581, guid: 436a70b435c93d74e9d4b0f983c528ea, type: 3}
-      propertyPath: m_LocalScale.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4663680594153757581, guid: 436a70b435c93d74e9d4b0f983c528ea, type: 3}
-      propertyPath: m_LocalScale.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4663680594153757581, guid: 436a70b435c93d74e9d4b0f983c528ea, type: 3}
-      propertyPath: m_ConstrainProportionsScale
-      value: 1
-      objectReference: {fileID: 0}
     - target: {fileID: 5711341339721306818, guid: 436a70b435c93d74e9d4b0f983c528ea, type: 3}
       propertyPath: 'm_Materials.Array.data[1]'
       value: 
