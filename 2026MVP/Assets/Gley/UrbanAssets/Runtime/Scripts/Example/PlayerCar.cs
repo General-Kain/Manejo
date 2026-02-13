@@ -39,6 +39,17 @@ namespace Gley.UrbanSystem
 
         IUIInput inputScript;
 
+        [Header("Steering Wheel")]
+        public Transform steeringWheel;
+        public float steeringWheelMaxRotation = 450f;
+        public float steeringWheelSmoothTime = 0.08f; 
+
+        private float currentSteeringInput;
+        private float steeringWheelVelocity;
+        private float steeringWheelCurrentAngle;
+        private Quaternion steeringWheelInitialRotation;
+
+
 
         private void Start()
         {
@@ -51,6 +62,8 @@ namespace Gley.UrbanSystem
             lightsComponent = gameObject.GetComponent<VehicleLightsComponent>();
             lightsComponent.Initialize();
             rb = GetComponent<Rigidbody>();
+            steeringWheelInitialRotation = steeringWheel.localRotation;
+          
         }
 
         // finds the corresponding visual wheel
@@ -75,7 +88,9 @@ namespace Gley.UrbanSystem
         public void FixedUpdate()
         {
             float motor = maxMotorTorque * inputScript.GetVerticalInput();
-            float steering = maxSteeringAngle * inputScript.GetHorizontalInput();
+            currentSteeringInput = inputScript.GetHorizontalInput();
+            float steering = maxSteeringAngle * currentSteeringInput;
+
 #if UNITY_6000_0_OR_NEWER
             var velocity = rb.linearVelocity;
 #else
@@ -164,7 +179,30 @@ namespace Gley.UrbanSystem
             lightsComponent.SetBrakeLights(brake);
             lightsComponent.SetReverseLights(reverse);
             lightsComponent.UpdateLights(realtimeSinceStartup);
+
+            UpdateSteeringWheel();
+
         }
+
+        void UpdateSteeringWheel()
+        {
+            if (steeringWheel == null)
+                return;
+
+            float targetAngle = currentSteeringInput * steeringWheelMaxRotation;
+
+            steeringWheelCurrentAngle = Mathf.SmoothDamp(
+                steeringWheelCurrentAngle,
+                targetAngle,
+                ref steeringWheelVelocity,
+                steeringWheelSmoothTime
+            );
+
+            steeringWheel.localRotation = steeringWheelInitialRotation *
+                Quaternion.Euler(0f, 0f, -steeringWheelCurrentAngle);
+        }
+
+
 
         private bool GetKeyDownSpace()
         {
