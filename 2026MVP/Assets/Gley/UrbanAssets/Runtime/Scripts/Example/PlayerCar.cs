@@ -39,7 +39,7 @@ namespace Gley.UrbanSystem
 
         IUIInput inputScript;
 
-        [Header("Steering Wheel")]
+        [Header("Rotacion Volante")]
         public Transform steeringWheel;
         public float steeringWheelMaxRotation = 450f;
         public float steeringWheelSmoothTime = 0.08f; 
@@ -62,6 +62,8 @@ namespace Gley.UrbanSystem
             lightsComponent = gameObject.GetComponent<VehicleLightsComponent>();
             lightsComponent.Initialize();
             rb = GetComponent<Rigidbody>();
+
+
             steeringWheelInitialRotation = steeringWheel.localRotation;
           
         }
